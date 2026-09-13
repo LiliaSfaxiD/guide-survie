@@ -73,6 +73,14 @@ const FICHES = [
     auteur: "Lilia Orig"
   }
 
+  {
+    titre:"La buvette",
+    categorie: "Vie pratique",
+    texte:"En rénovation pour le moment",
+    auteur: "Lilia Orig"
+  }
+
+
   // ===== FIN DE VOS FICHES =====
 
 ];
