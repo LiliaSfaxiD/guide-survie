@@ -66,7 +66,12 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
-
+  {
+    titre:"Le distributeur du deuxième",
+    categorie: "Vie pratique",
+    texte:"Il rend la monnaie",
+    auteur: "Lilia Orig"
+  }
 
   // ===== FIN DE VOS FICHES =====
 
