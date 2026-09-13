@@ -66,7 +66,14 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
-   {
+ {
+    titre:"Les salles3",
+    categorie: "Etudes",
+    texte:"Il faut y aller tot",
+    auteur: "LiliaOrig"
+  }
+
+  {
     titre:"Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte:"Il rend la monnaie",
