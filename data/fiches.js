@@ -66,11 +66,18 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
-  {
+   {
     titre:"Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte:"Il rend la monnaie",
     auteur: "Lilia Orig"
+  }
+
+{
+    titre:"Les salles",
+    categorie: "Etudes",
+    texte:"Il faut y aller tot",
+    auteur: "LiliaD"
   }
 
   // ===== FIN DE VOS FICHES =====
