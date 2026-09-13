@@ -83,5 +83,12 @@ const FICHES = [
 
 
   // ===== FIN DE VOS FICHES =====
+{
+    titre:"Les salles2",
+    categorie: "Etudes",
+    texte:"Il faut y aller tot",
+    auteur: "LiliaD"
+  }
+
 
 ];
