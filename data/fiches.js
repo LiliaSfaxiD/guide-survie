@@ -70,7 +70,7 @@ const FICHES = [
     titre:"Les salles3",
     categorie: "Etudes",
     texte:"Il faut y aller tot",
-    auteur: "LiliaOrig"
+    auteur: "LiliaD"
   }
 
   {
