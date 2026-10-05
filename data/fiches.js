@@ -36,6 +36,13 @@ const FICHES = [
     auteur: "Lilia Orig"
   },
   {
+    titre: "Fiche2 de Lilia Orig",
+    categorie: "Transport",
+    texte: "Le vélo est le meilleur moyen de transport!",
+    auteur: "Lilia Orig"
+  },
+ 
+  {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
