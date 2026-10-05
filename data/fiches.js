@@ -29,7 +29,12 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
-
+  {
+    titre: "Fiche1 de Lilia Orig",
+    categorie: "Etudes",
+    texte: "soyez à jour!",
+    auteur: "Lilia Orig"
+  },
   {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
@@ -71,16 +76,14 @@ const FICHES = [
     categorie: "Etudes",
     texte:"Il faut y aller tot",
     auteur: "LiliaD"
-  }
-
+  },
   {
     titre:"Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte:"Il rend la monnaie",
     auteur: "Lilia Orig"
-  }
-
-{
+  },
+ {
     titre:"Les salles",
     categorie: "Etudes",
     texte:"Il faut y aller tot",
@@ -90,12 +93,6 @@ const FICHES = [
 
 
   // ===== FIN DE VOS FICHES =====
-{
-    titre:"Les salles2",
-    categorie: "Etudes",
-    texte:"Il faut y aller tot",
-    auteur: "LiliaD"
-  }
 
 
 ];
