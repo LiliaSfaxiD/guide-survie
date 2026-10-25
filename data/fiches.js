@@ -29,6 +29,19 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+    {
+    titre: "Titre de ma première fiche",
+    categorie: "Vie pratique",
+    texte: "Un conseil utile, en une ou deux phrases.",
+    auteur: "Lilia Orig"
+  },
+
+  {
+    titre: "Titre de ma deuxième fiche",
+    categorie: "Bons plans",
+    texte: "Un autre conseil.",
+    auteur: "Lilia Orig"
+  },
   {
     titre: "Fiche1 de Lilia Orig",
     categorie: "Etudes",
