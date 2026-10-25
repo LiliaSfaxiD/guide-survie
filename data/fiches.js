@@ -102,6 +102,13 @@ const FICHES = [
     texte:"Restez branché",
     auteur: "LiliaD"
   },
+{
+    titre:"Mon conseil de branche2",
+    categorie: "Etudes",
+    texte:"Restez branché 2 fois",
+    auteur: "LiliaD"
+  },
+
 
 
 
