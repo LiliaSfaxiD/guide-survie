@@ -35,6 +35,13 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "Lilis Orig2"
   },
+  {
+    titre: "Fiche de Lilia Orig apres merge",
+    categorie: "Vie pratique",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
+    auteur: "Lilis Orig2"
+  },
+
 
 
   {
