@@ -36,6 +36,12 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Fiche de LiliaD apres clone",
+    categorie: "Transport",
+    texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
+    auteur: "LiliaD"
+  },
 
   {
     titre: "Arriver avant 8h30",
