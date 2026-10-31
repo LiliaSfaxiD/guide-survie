@@ -29,6 +29,13 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Fiche de Lilia Orig apres clone",
+    categorie: "Vie pratique",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
+    auteur: "Lilis Orig2"
+  },
+
 
   {
     titre: "Le distributeur du deuxième",
